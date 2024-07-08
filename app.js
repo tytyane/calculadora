@@ -21,7 +21,7 @@ function menuCalculadora(){
          |           2. Obter resultado             |
          |________________3. Sair___________________|
          |                                          |
-         | ( 1ºn )  operador  ( 2ºn )  =  resultado |    
+         | ( 1ºn )  operador  ( 2ºn )  =  resultado |
          |__________________________________________|
          
 
